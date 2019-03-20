@@ -1,0 +1,6 @@
+C:\Users\peema\source\repos\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\JaggedArrayChallenge.exe.config
+C:\Users\peema\source\repos\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\JaggedArrayChallenge.exe
+C:\Users\peema\source\repos\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\JaggedArrayChallenge.pdb
+C:\Users\peema\source\repos\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.exe
+C:\Users\peema\source\repos\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.pdb
